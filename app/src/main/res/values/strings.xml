@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">NamoGange</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="ganga_desc1">The Ganga, especially, is the river of India, beloved of her people,
+        round which are intertwined her memories, her hopes and fears, her songs of triumph,
+        her victories and her defeats. She has been a symbol of India’s age-long culture and civilization,
+        ever changing, ever flowing, and yet ever the same Ganga.-Jawaharlal Nehru</string>
+    <string name="ganga_desc2">Ganga River is one of the prime rivers of India and is declared as the
+        National River of India. It flows east through the Gangetic plains of Northern India into the
+        country of Bangladesh. The river has immense religious significance and considered as the
+        holy river of the Hindus. Historically too the river is important as many important cities
+        and capitals have been located along its banks. The Ganga sustains one of the world\'s highest
+        densities of population and drains an area of approximately 1000000 sq. kms.</string>
+    <string name="ganga_desc3">Ganga River originates in the Himalayas and is 2, 510 km (1, 557 meters) long.
+        It begins at the Gangotri glacier in the state of Uttarakhand in the central Himalayas at the concourse
+        of five headstreams - Bhagirathi River, Mandakini, Alaknanda River, Dhauliganga and Pindar at Dev Prayag.
+        Ganga or, more exactly, Bhagirathi, originates from Gangotri glacier,
+        one of the biggest glaciers in Himalayas.</string>
+    <string name="ganga_article1">The Supreme Court on Wednesday expressed disappointment with the Centre
+        for its lack of a long-term vision to clean the river Ganga. Expressing the anguish Justice Thakur
+        said: If the discharge of industrial pollutants into the river stooped, 30% of the Ganga would be clean.
+        Corruption was stalling the clean Ganga project and heads must roll out for this. The Central Pollution
+        Control Board (CPCB), a statutory body which is to take effective steps, is not in a position to stop the
+        polluting units from discharging effluents into the river. Units are being allowed to run accepting bribe.
+        This is breeding corruption and the board is not doing it work.</string>
+    <string name="ganga_article2">According to a study conducted by Anil Kumar Misra (2010), the Yamuna
+        is one of the most polluted rivers of India.The discharge of untreated domestic and industrial effluents have severely affected the quality of Yamuna River and now
+        it falls under the category E, which makes it fit only for recreation and industrial cooling, completely ruling out the
+        possibility for underwater life and domestic supply. Almost every year mass death of fishes is reported. Pollution levels
+        in the Yamuna River have risen. Biochemical oxygen demand (BOD) load has increased by 2.5 times between 1980 and 2005:
+        From 117 tonnes per day (TDP) in 1980 to 276 TDP in 2005. The Yamuna has been reduced to a small stream, draining
+        industrial effluents, sewage, dirt and other toxic substances. There is an urgent need to take stringent measures
+        to alleviate these pollution loads and save an ailing river</string>
+    <string name="ganga_article3">In Hinduism, the river Ganges is considered sacred and is personified as a goddess known as Ganga. It is worshipped by
+        Hindus who believe that bathing in the river causes the remission of sins and facilitates Moksha (liberation from the
+        cycle of life and death). Pilgrims travel long distances to immerse the ashes of their kin in the precious water of the
+        Ganges, bringing their spirits closer to moksha.<br/><br/>Several places sacred to Hindus lie along the banks of the Ganges,
+        including Gangotri, Haridwar, Allahabad and Varanasi.</string>
+    <string name="description1">
+        Application Features:\n\n
+
+        \t1. Application will start fetching Location Updates from GPS/Network Provider using Google Play Services. Application will alert users to keep Ganga Clean, when they are near locations in Locations List provided.\n\n
+        \t2. Aplication provides option to get more knowledge about their location in Alert Dialog\n\n
+        \t3. About Ganga: Application provides detailed knowledge about significance of River Ganga in real life, Spiritual and Cultural Heritage, Natural Benefits and Ganga Maps foe general Awareness\n\n
+        \t4. Places To Visit: Application provides knowledge about Historical Temple, Ganga Ghats and other important places to visit in haridwar.\n
+            It also provides Google Maps Route from your current location to all places to visit.\n\n
+        \t5. Application gives introduction of National Mission for Clean Ganga (NMCG) Government Program.\n
+    </string>
+    <string name="desc2">
+        List of Locations\n\n
+        Hari Ki Pauri, Haridwar\n
+        Mansa Devi Temple, Haridwar\n
+        Bharat Mata Mandir, Haridwar\n
+        Chandi Devi Temple, Haridwar\n
+        Vaishno Devi Temple, Haridwar\n
+        Pawan Dham, Haridwar\n
+        Gau Ghat, Haridwar\n
+        Vishnu Ghat, Haridwar\n
+        Birla Ghat\n
+        Kushavarta Ghat\n
+        Ashthi Pravah Ghat, Haridwar\n
+        Shubhash Ghat, Haridwar\n
+        Ram Ghat, Haridwar\n
+        Prem Nagar Ashram Ghat, Haridwar\n
+        Singh Dwar, Haridwar\n
+        Jatwara Pul, Haridwar\n
+        Daksh Mahadev Temple, Haridwar\n
+        Shanti Kunj, Haridwar\n
+    </string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

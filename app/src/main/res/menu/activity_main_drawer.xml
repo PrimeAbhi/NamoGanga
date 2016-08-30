@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="NamoGanga">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_first_fragment"
+                    android:icon="@drawable/ic_home"
+                    android:title="About Ganga" />
+                <item
+                    android:id="@+id/nav_second_fragment"
+                    android:icon="@drawable/ic_places"
+                    android:title="Places To Visit" />
+                <item
+                    android:id="@+id/nav_third_fragment"
+                    android:icon="@drawable/ic_notification"
+                    android:title="Public Articles" />
+                <item
+                    android:id="@+id/nav_fourth_fragment"
+                    android:icon="@drawable/ic_about"
+                    android:title="Gallery" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="About">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_fifth_fragment"
+                    android:icon="@drawable/ic_about"
+                    android:title="About NMCG" />
+                <item
+                    android:id="@+id/nav_sixth_fragment"
+                    android:icon="@drawable/ic_about"
+                    android:title="About Application" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
