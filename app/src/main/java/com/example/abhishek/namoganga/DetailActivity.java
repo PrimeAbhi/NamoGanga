@@ -13,7 +13,6 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 
 public class DetailActivity extends AppCompatActivity {
-
     String title, url;
     WebView webView;
     double latitude, longitude;
@@ -50,7 +49,6 @@ public class DetailActivity extends AppCompatActivity {
             webSettings.setSupportZoom(true);
             webView.loadDataWithBaseURL(null, url, "text/html", "UTF-8", null);
         }
-
     }
 
     @Override
@@ -62,5 +60,4 @@ public class DetailActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
 }

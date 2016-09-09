@@ -7,9 +7,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by vicky on 8/8/2016.
- */
 public class AboutGanga extends Fragment {
 
     public AboutGanga() {

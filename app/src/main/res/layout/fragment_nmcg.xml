@@ -33,6 +33,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal|center_vertical"
                     android:elevation="4dp"
+                    android:textSize="20dp"
                     android:text="National Mission for Clean Ganga"
                     android:textColor="@color/colorPrimary"
                     android:textStyle="bold" />
@@ -44,6 +45,7 @@
                     android:layout_gravity="center_horizontal"
                     android:elevation="4dp"
                     android:text="(NMCG)"
+                    android:textSize="20dp"
                     android:textColor="@color/colorPrimary"
                     android:textStyle="bold" />
 
@@ -52,7 +54,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="8dp"
-                    android:text="National Mission for Clean Ganga (NMCG) is the implementation wing of National Ganga River Basin Authority (NGRBA). It is a registered society originally formed by Ministry of Environment, Forests and Climate Change(MoEFCC) on 12th August 2011 under the Societies Registration Act, 1860. As per the 306th amendment in the Government of India (Allocation of Business) Rules, 1961, both NGRBA and NMCG are allocated to the Ministry of Water Resources, River Development and Ganga Rejuvenation(MoWR,RD and GR). Accordingly the General Body of NMCG is being re constituted. The Secretary to the Government of India, MoWR, RD and GR is the current chairman of the Governing Council of NMCG. As per the approval of the Cabinet Committee on Economic Affairs (CCEA), the mandate of NGRBA is being implemented by, the National Mission for Clean Ganga (NMCG). At national level NMCG is the coordinating body and is being supported by States Level Program Management Groups (SPMGs) of UP, Uttarakhand, Bihar and West Bengal which, are also registered as societies under Societies Registration Act, 1860 and a dedicated Nodal Cell in Jharkhand." />
+                    android:textSize="16dp"
+                    android:background="@color/lightGrey"
+                    android:text="National Mission for Clean Ganga (NMCG) is the implementation wing of National Gangrea River Basin Authority (NGRBA). It is a registered society originally formed by Ministry of Environment, Forests and Climate Change(MoEFCC) on 12th August 2011 under the Societies Registration Act, 1860. As per the 306th amendment in the Government of India (Allocation of Business) Rules, 1961, both NGRBA and NMCG are allocated to the Ministry of Water Resources, River Development and Ganga Rejuvenation(MoWR,RD and GR). Accordingly the General Body of NMCG is being reconstituted. The Secretary to the Government of India, MoWR, RD and GR is the current chairman of the Governing Council of NMCG. As per the approval of the Cabinet Committee on Economic Affairs (CCEA), the mandate of NGRBA is being implemented by, the National Mission for Clean Ganga (NMCG). At National level NMCG is the coordinating body and is being supported by States Level Program Management Groups (SPMGs) of UP, Uttarakhand, Bihar and West Bengal which are also registered as societies under Societies Registration Act, 1860 and a dedicated Nodal Cell in Jharkhand." />
             </LinearLayout>
         </android.support.v7.widget.CardView>
 
@@ -78,6 +82,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:elevation="4dp"
+                    android:textSize="20dp"
                     android:text="Aim and Objective of NMCG\n"
                     android:textColor="@color/colorPrimary"
                     android:textStyle="bold" />
@@ -86,6 +91,9 @@
                     android:id="@+id/textView5"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:background="@color/lightGrey"
+                    android:padding="8dp"
+                    android:textSize="16dp"
                     android:text="The aims and objectives of NMCG is to accomplish the mandate of National Ganga River Basin Authority (NGRBA) of\n
     1.To ensure effective abatement of pollution and rejuvenation of the river Ganga by adopting a river basin approach to promote inter-sectoral co-ordination for comprehensive planning and management and\n
     2.To maintain minimum ecological flows in the river Ganga with the aim of ensuring water quality and environmentally sustainable development.\n" />
@@ -113,6 +121,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
+                    android:textSize="20dp"
+                    android:elevation="4dp"
                     android:text=" Vision and Key Function\n"
                     android:textColor="@color/colorPrimary" />
 
@@ -121,18 +131,22 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Vision"
+                    android:textSize="20dp"
                     android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/textView8"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="    The Vision for Ganga Rejuvenation constitutes restoring the wholesomeness of the river defined in terms of ensuring “Aviral Dhara” (Continuous Flow”), “Nirmal Dhara”(“Unpolluted Flow”), Geologic and ecological integrity.\n"/>
+                    android:textSize="16dp"
+                    android:padding="8dp"
+                    android:text="The Vision for Ganga Rejuvenation constitutes restoring the wholesomeness of the river defined in terms of ensuring “Aviral Dhara” (Continuous Flow”), “Nirmal Dhara”(“Unpolluted Flow”), Geologic and ecological integrity.\n"/>
 
                 <TextView
                     android:id="@+id/textView9"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textSize="20dp"
                     android:text="Key Functions"
                     android:textStyle="bold" />
 
@@ -140,7 +154,9 @@
                     android:id="@+id/textView10"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="    To achieve the objectives, NMCG shall carry out the following key functions namely:\n
+                    android:textSize="16dp"
+                    android:padding="8dp"
+                    android:text="To achieve the objectives, NMCG shall carry out the following key functions namely:\n
     (i) Implement the work programme of National Ganga River Basin Authority(NGRBA).\n
     (ii) Implement the World Bank supported National Ganga River Basin Project.\n
     (iii) Coordinate and oversee the implementation of projects sanctioned by Government of India under NGRBA.\n

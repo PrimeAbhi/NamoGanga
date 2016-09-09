@@ -7,13 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by vicky on 8/29/2016.
- */
 public class PublicArticles extends Fragment {
-
     public PublicArticles() {
-
     }
 
     @Override

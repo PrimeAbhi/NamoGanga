@@ -7,10 +7,10 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.util.List;
-
 import com.example.abhishek.namoganga.ItemFragment.OnListFragmentInteractionListener;
 import com.example.abhishek.namoganga.dummy.DummyContent.DummyItem;
+
+import java.util.List;
 
 /**
  * {@link RecyclerView.Adapter} that can display a {@link DummyItem} and makes a call to the
@@ -18,7 +18,6 @@ import com.example.abhishek.namoganga.dummy.DummyContent.DummyItem;
  * TODO: Replace the implementation with code for your data type.
  */
 public class MyItemRecyclerViewAdapter extends RecyclerView.Adapter<MyItemRecyclerViewAdapter.ViewHolder> {
-
     private final List<DummyItem> mValues;
     private final OnListFragmentInteractionListener mListener;
 
@@ -66,8 +65,6 @@ public class MyItemRecyclerViewAdapter extends RecyclerView.Adapter<MyItemRecycl
                 }
             });
         }
-
-
     }
 
     @Override
@@ -92,7 +89,6 @@ public class MyItemRecyclerViewAdapter extends RecyclerView.Adapter<MyItemRecycl
                 mIdView = (ImageView) view.findViewById(R.id.id);
                 mContentView = (TextView) view.findViewById(R.id.content);
             }
-
         }
 
         @Override

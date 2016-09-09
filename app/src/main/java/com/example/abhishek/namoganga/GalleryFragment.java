@@ -13,9 +13,6 @@ import android.view.ViewGroup;
 
 import com.example.abhishek.namoganga.dummy.DummyContent;
 
-/**
- * Created by vicky on 8/29/2016.
- */
 public class GalleryFragment extends Fragment {
 
     // TODO: Customize parameter argument names
